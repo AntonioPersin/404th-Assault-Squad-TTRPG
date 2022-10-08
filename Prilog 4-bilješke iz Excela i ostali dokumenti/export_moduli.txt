@@ -1,0 +1,67 @@
+1	night vision overlay	utility	helmet	suit	available slot,    2 PER, 2 INT	toggleable night vision(free action)	-	-	-	2 [1], 3 [2]	1
+2	heat vision overlay	utility	helmet	suit	available slot,    4 PER, 4 INT	toggleable heat sensors(free action) that can detect heat signature of camouflaged units	-	-	-	1 [1], 3 [2]	1
+3	electro-magnetic vision overlay	utility	helmet	suit	available slot,    6 PER, 4 INT	toggleable electro-magnetic sensors(free action) that can detect heat signature of camouflaged units	-	-	-	-	2
+4	heat vision protocols	utility	body	mech	available slot	toggleable heat sensors(free action) that can detect heat signature of camouflaged units	-	-	-	5 [2]	2
+5	electro-magnetic vision protocols	utility	body	mech	available slot	toggleable electro-magnetic sensors(free action) that can detect signature of camouflaged units	-	-	-	-	2
+6	sabilizers	utility	both legs	mech	available slots	+1 turn before artilery can be fired the first time,  afterwards negates recoil wait time, harder to get knocked back while holding a shield	-	until retracted	-	11 [4]	1
+7	mine detection protocols	utility	leg	mech	available slots	detects metal mines in a range of 3	3	instant	-	-	1
+8	anti-pest protocols	utility	body	mech	available slots	sends a shock pulse through the rig immidiately dropping all creatures that are holding onto the mech or are manning the external weaponry and stunning them (not the pilot in control)	3	1	-	9 [2]	1
+9	extended anti-pest protocols	utility	body	mech	available slots	sends a shock pulse through the rig immidiately dropping all creatures that are holding onto the mech or are manning the external weaponry and stunning them, also stuns everything within 1 range (not the pilot in control, excluding other mechs)	5	1	-	-	2
+10	auto repair protocols	utility	body	mech	available slots	-2 turns to repairing broken modules	-	-	-	40 [2]	1
+11	fast stabilizers	utility	both legs	mech	available slots	first artilery shot takes normal ammount of turns to fire, afterwards negates recoil wait time, harder to get knocked back while holding a shield	-	until retrackted	-	-	2
+12	anti-intruder protocols	utility	body	mech	available slots	prevents mech hijack by binding mech's controls to the pilot's suit	-	-	-	-	1
+13	self-distruct protocols	core	core	mech	available slot,    nuclear core	pilot can initiate self distruct	-	-	-	14 [2], 15 [5]	1
+14	remote self-destruct protocols	core	core	mech	available slot, nuclear core	pilot can initiate self distruct remotely through omni-tool	-	-	-	15 [3]	2
+15	self-distruct payload protocols	core	core	mech	available slot, nuclear core	pilot can launch a mech in a desired direction before self-distruction before the pilot ejects	-	-	-	-	3
+16	reinforced core hatch	utility	body	mech	available slots	makes it harder to reach the core from the outside of the mech	-	-	-	-	1
+17	survival instinct	utility	chest	suit	available slot,    5 END, 3 INT,      3 STR	when HP drops below 10 suit knocks out the pilot to possibly prevent fatal damage	-	-	-	18 [3]	1
+18	survival instinct Mk.2	utility	chest	suit	available slot,    7 END, 3 INT,      5 STR	when HP drops below a set ammount of HP (player setting) suit knocks out the pilot to possibly prevent fatal damage, pilot can trigger the effect preemptively	-	-	-	-	2
+19	jet pack	utility	back	suit	available slot,    3 AGI	it's a jet pack… movement has +1 range	-	-	3	-	1
+20	parachute	utility	back	suit	available slot	it's a parachute…	6	-	-	-	1
+21	stabilizer jets	utility	legs	suit	available slot,    2 AGI	prevents fall damage	-	-	-	-	1
+22	jet propulsion	utility	both shoulders	mech	available slot, standard core	it's a jet pack… for mechs… movement has +1 range	-	-	2	-	1
+23	targeting overlay	utility	helmet	suit	available slot,    6 PER	+1 to hit-chance rolls, toggleable	-	-	-	24 [2]	1
+24	adv. targeting overlay	utility	helmet	suit	available slot,    9 PER	+2 to hit-chance rolls, toggleable	-	-	-	-	2
+25	helmet camera	utility	helmet	suit	available slot	allows HQ to have a visual feed and provide tactical help	-	-	-	-	1
+26	mine sweeper	utility	omni-tool	suit	available slot,    3 AGI	detects mine in the range of 1	1	-	-	-	1
+27	hacking module	utility	omni-tool	suit	available slot,    4 INT	hacks minor locks	3	-	-	28 [2], 29 [5]	1
+28	adv. hacking module	utility	omni-tool	suit	available slot,    7 INT	hacks advanced locks	4	-	-	29 [3]	2
+29	expert hacking module	utility	omni-tool	suit	available slot,    9 INT	hacks almost any lock	5	-	-	-	3
+30	remote hacking module upgrade	utility	omni-tool	suit	+1 INT to base requirements	add a range of 2 to equipped hacking module, can hack mechanical equipment	+1 to base cooldown	2	-	upgrades existing one for [2]	4
+31	active camo	utility	chest	suit	available slot,     2 INT, 6 AGI	visually masks the pilot, attacking or otherwise revealing yourself ends the effect	3	2	-	33 [2]	1
+32	active camo protocols	utility	body	mech	available slot	visually masks the mech, attacking or otherwise revealing yourself ends the effect	5	2	-	34 [2]	1
+33	extended active camo	utility	chest	suit	available slot,    2 INT, 6 AGI	visually masks the pilot for an extended period, attacking or otherwise revealing yourself ends the effect	3	3	-	-	2
+34	extended active camo protocols	utility	body	mech	available slot	visually masks the mech for an extended period, attacking or otherwise revealing yourself ends the effect	5	3	-	-	2
+35	heat emission reduction	utility	chest	suit	available slot	coolants in the suit adjust the temperature emmissions to match the external temperature	3	2	-	36 [2]	1
+36	extended heat emission reduction	utility	chest	suit	available slot	coolants in the suit adjust the temperature emmissions to match the external temperature, extended duration	3	3	-	-	2
+37	heat emission reduction protocols	utility	body	mech	available slot	coolants in the mech's core adjust the temperature emmissions to match the external temperature	5	2	-	38 [2]	1
+38	extended heat emission reduction protocols	utility	body	mech	available slot	coolants in the mech's core adjust the temperature emmissions to match the external temperature, extended duration	5	3	-	-	2
+39	upgraded firewall	utility	body	mech	available slot	prevents a mech from being disabled through hacking	-	-	-		1
+40	auto-repair protocols Mk.2	utility	body	mech	available slot	-4 turns for repairing, up to minimum of 1 turn	-	-	-	-	2
+41	Guardian angels	utility	shoulder	mech	available slot	launches 1 small drone that orbits the mech, drone intercepts incoming rockets and grenades	3 (after drone destruction)	until destroyed	-	42 [2], 43 [3]	1
+42	Guardian angels Mk.2	utility	shoulder	mech	available slot	launches 3 small drones that orbits the mech, drones intercepts incoming rockets and grenades	4 (after drone destruction)	until destroyed	-	43 [1]	2
+43	Guardian angels Mk.3	utility	shoulder	mech	available slot, nuclear core	launches 5 small drones that orbits the mech, drones intercepts incoming rockets and grenades	5 (after drone destruction)	until destroyed	-	-	3
+44	R.A.T. drone	utility	shoulder and body	mech	available slots	deployes a Recon Assault and Tactical drone, drone has customizeable 2 utility/drone slots	-	until destroyed or recalled	1	-	1
+45	R.A.T. explosive payload	drone	drone	drone	available slot	drone carries an explosive payload that can be remotely detonated from inside the mech	-	-	-	-	1
+46	R.A.T. medical dispenser	drone	drone	drone	available slot	drone can inject a stim into the target	2	instant	2	-	1
+47	R.A.T. tazer	drone	drone	drone	available slot	drone can stun a target	4	instant	2	-	1
+48	smoke grenade launcer	utility	shoulder/leg	mech	available slot	can launch a smoke grenade in a range of 3	4	3	2	49 [1]	1
+49	smoke grenade launcer Mk.2	utility	shoulder/leg	mech	available slot	can launch 2 smoke grenades at once in a range of 3	6	3	2	-	2
+50	Beacon launcher	utility	shoulder/leg	mech	available slot	launches 1 beacon that calls in a supply crate after 2 turns	-	-	1	51 [1]	1
+51	Beacon launcher Mk.2	utility	shoulder/leg	mech	available slot	launches 1 beacon that calls in a supply crate after 2 turns	2 combats	-	-	-	2
+52	Hook launcher	utility	omni-tool	suit	available slot,    7 AGI, 4 PER	launch a 2 range hook on a steel chord, can be reeled in at will (enemies can unhook themselves in 1 action)	3	-	-	53 [2]	1
+53	Shock Hook launcher	utility	omni-tool	suit	available slot,    7 AGI, 4 PER,       3 INT	launch a 2 range hook on a steel chord that shocks organics on hit, stunning them for 1 turn (does not affect mechs), can be reeled in at will (enemies can unhook themselves in 1 action once the recover from stun)	5	1	-	-	2
+54	Upgraded core capacitors	core	core	mech	available slot, standard core	core lasts for 5 combat encounters	-	5 combats	-	55 [4]	1
+55	Upgraded core capacitors Mk.2	core	core	mech	available slot, standard core	core lasts for 6 combat encounters	-	6 combats	-	-	2
+56	Reinforced core casing	core	core	mech	available slot	increases mech HP by 150, cannot have 2 core casings equipped in the same time	-	-	-	56 [5], 57 [10]	1
+57	Reinforced core casing Mk.2	core	core	mech	available slot	increases mech HP by 250, cannot have 2 core casings equipped in the same time	-	-	-	57 [5]	2
+58	Reinforced core casing Mk.3	core	core	mech	available slot	increases mech HP by 350, cannot have 2 core casings equipped in the same time	-	-	-	-	3
+59	Overdrive	core	core	mech	available slot, standard core	+25% dmg, take 50% more damage, core overheats at the end of the duration, disabling the mech for 3 turns	-	3	1	-	1
+60	Target analyzer	utility	helmet	suit	available slot,     4 INT, 4 PER	displays target's modules and weapons, requires visual of the target	1	-	-	61 [1]	1
+61	Advanced Target analyzer	utility	helmet	suit	available slot,     6 INT, 4 PER	displays target's modules and their cooldowns as well as weapons and magazine contents, requires visual of the target	1	-	-	-	2
+62	Turret conversion 	core	core	mech	available slot	converts a chosen shoulder weapon (except artilery) into a mannable turret, weapon cannot be fired by the mech (it needs a gunner), weapon shots use gunner's action and hit chance modifiers, gunners can be stunned by anti-pest protocols, turret can be hijacked, one module can convert 1 turret, 2 modules can be installed	-	-	-	-	1
+63	Grenade rig	utility	chest	suit	available slot,    2 STR	provides 3 extra grenade slots	-	-	-	-	1
+64	Grenade holders	utility	legs	suit	available slot,    1 STR, 1 AGL	provides 2 extra grenade slots	-	-	-	-	1
+65	Extended ammo rig	utility	chest	suit	available slot,    2 STR	provides 5 extra magazine slots	-	-	-	-	1
+66	Ammo rig	utility	legs	suit	available slot,    1 STR, 1 AGL	provides 2 extra magazine slots	-	-	-	-	1
+67	Equipment Launcher	utility	back	suit	available slot,    4 STR, 3 AGL	launches grenades with +1 range and +3 PER 	2	-	-	-	1											

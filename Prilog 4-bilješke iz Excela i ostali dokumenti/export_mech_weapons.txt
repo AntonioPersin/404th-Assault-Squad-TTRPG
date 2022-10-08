@@ -1,0 +1,37 @@
+1	Minigun	arm weapon/shoulder	50	50% dmg	4	5mm	3	99	33	1	1 action	14 [1], 15 [1], 16 [2]	1
+2	Grenade launcher	arm weapon/shoulder	100	50% dmg, +4 AC	4	40mm grenades	6	1	1	1	automatically reloads every turn (can be fired only once per turn)	17 [2]	1
+3	Projectable shield	arm weapon	200	-	-	shield core	1	-	-	-	1 end of combat	13 [2], 36 [1]	1
+4	Automatic shotgun	arm weapon	70	50% dmg, +2 AC	3	20 ga.	3	20	5	1	1 action	18 [2], 19 [1]	1
+5	Rocket launcher	shoulder	120	75% dmg, +1 AC	6	HE rocket	4	1	1	1	1 action	20 [1], 21 [3], 22 [4]	1
+6	Cannon	shoulder	150	66% dmg, +3 AC	6	65mm shell	5	1	1	1	2 actions	23 [3]	1
+7	Artilery cannon	both shoulder	600	-	30	120mm shell	3	1	1	1	2	-	1
+8	Mech omni-blade	arm weapon	50	+5 AC	1	-	-	-	-	flexible, always same dmg	-	24 [1], 25 [2]	1
+9	Flamer	arm weapon	30	200% dmg	3	flamer fuel	5	50	25	1	1 action	26 [2], 27 [1]	1
+10	Laser cannon	arm weapon	120	25% dmg, +2 AC	4	micro fusion cell	5	1	1	1	2 actions	28 [2], 29 [2], 30 [4], 31 [4]	1
+11	Artilery missle pod	both shoulder	350	-	20	hellfire missile	0	8	8	1	5	-	1
+12	Micro missiles	shoulder	30	+3 AC	5	micro missile	6	3	3	1	automatically reloads every turn (can be fired only once per turn)	32 [2], 33 [4], 34 [1], 35 [3]	1
+13	Projectable shield Mk.2	arm weapon	300	-	-	shield core	1	-	-	-	1 end of combat	-	2
+14	Eco fire minigun	arm weapon/shoulder	30	50% dmg	4	5mm	3	100	20	1	1 action	15 [1], 16 [1]	1
+15	Buy-out fire minigun	arm weapon/shoulder	75	50% dmg	4	5mm	3	100	50	1	1 action	14 [1], 16 [1]	1
+16	Minigun Mk.2	arm weapon/shoulder	75	66% dmg	4	5mm	3	99	33	1	1 action	-	2
+17	Grenade launcher Mk.2	arm weapon/shoulder	160	50% dmg, +4 AC	5	40mm grenades	6	1	1	1	automatically reloads every turn (can be fired only once per turn)	-	2
+18	Automatic shotgun Mk.2	arm weapon	100	50% dmg, +2 AC	3	20 ga.	3	20	5	1	1 action	-	2
+19	Automatic shotgun range upgrade	arm weapon	70	50% dmg, +2 AC	4	20 ga.	3	20	5	1	1 action	18 [1]	1
+20	Rocket launcher AP adjustment	shoulder	200	20% dmg, +3 AC	6	AP rocket	4	1	1	1	1 action	5 [1], 21 [4], 22 [3]	1
+21	Rocket launcher Mk.2	shoulder	200	75% dmg, +1 AC	6	HE rocket	4	1	1	1	1 action	-	2
+22	Rocket launcher AP Mk.2	shoulder	350	20% dmg, +3 AC	6	AP rocket	4	1	1	1	1 action	-	2
+23	Cannon Mk.2	shoulder	250	60% dmg, +3 AC	6	65mm shell	5	1	1	1	2 actions	-	2
+24	Mech omni-blade Mk.2	arm weapon	75	+5 AC	1	-	-	-	-	flexible, always same dmg	-	25 [1]	2
+25	Mech omni-blade Mk.3	arm weapon	100	+5 AC	1	-	-	-	-	flexible, always same dmg	-	-	3
+26	Flamer Mk.2	arm weapon	40	200% dmg	3	flamer fuel	5	50	25	1	1 action	-	2
+27	Flamer expanded tanks	arm weapon	30	200% dmg	3	flamer fuel	5	75	25	1	1 action	26 [1]	1
+28	Laser sniper	arm weapon	100	50% dmg, penetrates all small targets in a line	6	micro fusion cell	4	1	1	1	2 actions	30 [2], 29 [1], 31 [3]	1
+29	Laser beam	arm weapon	50	50% dmg	3	small energy cell	2	30	10	2	1 action	28 [1], 30 [3], 31 [2]	1
+30	Laser sniper Mk.2	arm weapon	200	50% dmg, penetrates all small targets in a line	8	micro fusion cell	4	1	1	1	1 turn	-	2
+31	Laser beam Mk.2	arm weapon	75	50% dmg	3	small energy cell	2	30	10	3	2 actions	-	2
+32	Micro missiles Mk.2	shoulder	40	+3 AC	5	micro missile	3	6	6	1	automatically reloads every turn (can be fired only once per turn)	33 [2], 35 [1]	2
+33	Micro missiles Mk.3	shoulder	50	+3 AC	5	micro missile	2	9	9	1	automatically reloads every turn (can be fired only once per turn)	-	3
+34	Seeking micro missiles	shoulder	30	-	4	micro missile	6	3	3	1	automatically reloads every turn (can be fired only once per turn)	35 [2]	2
+35	Seeking micro missiles Mk.2	shoulder	40	-	4	micro missile	3	6	6	1	automatically reloads every turn (can be fired only once per turn)	-	3
+36	Grounded projectable shield	arm weapon	200	-	-	shield core	1	-	-	-	1 end of combat	13 [1]	1
+37													

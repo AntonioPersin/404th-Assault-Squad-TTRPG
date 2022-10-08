@@ -1,0 +1,35 @@
+1	Handgun	handgun	12	3	9mm	4	4	1	1	1	2 [1], 3 [2], 4 [1]	1
+2	Silenced handgun	handgun	15	3	9mm	4	4	1	1	1	3 [1], 4 [1]	1
+3	Handgun Mk.2	handgun	20	3	9mm	4	4	1	1	1	-	2
+4	Handgun ext. Mags	handgun	12	3	9mm	4	6	1	1	1	3 [1], 2 [1]	1
+5	Revolver	handcannon	20	4	.44 magnum	3	3	1	1	1	6 [2]	1
+6	Revolver Mk.2	handcannon	35	4	.44 magnum	3	3	1	1	1	-	2
+7	Cheap shot (revolver)	handcannon	12	3	.44 magnum	3	3	1	1	1	-	2			
+8	Omni-Blade	omni-melee	15	1	-	-	-	-	flexible, always same dmg	-	9 [1]	1
+9	Omni-Blade Mk.2	omni-melee	30	1	-	-	-	-	flexible, always same dmg	-	-	2
+10	Hidden Blade	cybernetic-melee	20	1	-	-	-	-	1	-	-	1
+11	Combart Knife	melee	15	1	-	-	-	-	flexible, always same dmg	-	-	1
+12	Reinforced glove	melee	10	1	-	-	-	-	flexible, always same dmg	-	-	1
+13	Power fist	melee	20	1	-	-	-	-	flexible, always same dmg	-	14 [2]	2
+14	Power Fist Mk.2	melee	40	2	-	-	-	-	flexible, always same dmg	-	-	3
+15	Parazon	cybernetic-melee	20	2	-	-	-	-	1	-	-	1
+16	Katana	melee	30	1	-	-	-	-	1	-	-	1
+17	SMG	SMG	20	4	9mm	3	30	10	1	1	18 [1], 34 [2]	1
+18	SMG ext. Mags	SMG	20	4	9mm	2	60	10	1	1	34 [1]	1
+19	Assault rifle	AR	25	4	5.56	2	30	10	1	1	20 [2], 21 [1], 22 [2]	1
+20	Assault rifle Mk.2	AR	40	4	5.56	2	30	10	1	1	-	2
+21	Semi Assault Rifle	AR	18	5	5.56	2	7	1	1	1	22 [1]	1
+22	Scoped Assault Rifle	AR	25	6	5.56	2	5	1	1	1	-	2
+23	Sniper rifle	sniper	35	6	7.62	2	3	1	1	1	24 [3]	1
+24	Sniper rifle Mk.2	sniper	50	7	7.62	2	3	1	1	1	-	2
+25	Anti-material Rifle	sniper	70	8	.50	3	2	1	1	2	-	3
+26	Laser sniper	sniper	40	8	MFC	5	1	1	1	1	-	3
+27	Shotgun	shotgun	20	3	12 ga.	4	3	1	1	1	28 [2]	1
+28	Shotgun Mk.2	shotgun	30	3	12 ga.	4	3	1	1	1	-	2
+29	Automatic shotgun	shotgun	30	3	12 ga.	2	15	5	1	1	-	2
+30	Shell Shock (shotgun)	shotgun	20	3	12 ga.	3	3	1	1	1	-	2
+31	Revolver shotgun	handcannon	15	3	12 ga.	3	3	1	1	1	-	2
+32	Sawed-off	sawed-off	26	2	12 ga.	6	2	2	1	1	-	1
+33	BOSG (ACOG)	shotgun	35	5	12 ga. (slug)	9	1	1	1	1	-	1
+34	SMG Mk.2	SMG	35	4	9mm	3	30	10	1	1	-	2
+35	Tracer rifle	AR	30	4	5.56	2	30	10	1	1	-	2
